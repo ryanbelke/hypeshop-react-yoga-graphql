@@ -1,0 +1,8 @@
+#endpoint: ${env:PRISMA_ENDPOINT}
+secret: ${env:PRISMA_SECRET}
+
+endpoint: https://hypeshop-prod-7924ccc9b9.herokuapp.com/hypeshop-prod/prod
+datamodel: datamodel.prisma
+hooks: 
+  post-deploy:
+    - graphql get-schema -p prisma
