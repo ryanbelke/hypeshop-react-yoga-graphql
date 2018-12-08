@@ -40,7 +40,7 @@ class AutoComplete extends React.Component {
     this.setState({ loading: true });
     const res = await client.query({
       query: SEARCH_ITEMS_QUERY,
-      variables: { searchTerm: e.target.value.toLowerCase() }
+      variables: { searchTerm: e.target.value.toUpperCase() }
     });
     console.log(res);
     this.setState({
