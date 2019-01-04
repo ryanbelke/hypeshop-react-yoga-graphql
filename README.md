@@ -16,6 +16,8 @@ Features Inclue:
 * `Upload Item/Cloudinary Image Upload`
 * `Manage User Permissions (User/Admin)`
 * `Stripe Checkout`
+* `CRUD interface for items`
+* `Past Order Display Page`
 
 
 ### Demo Link: (Free Heroku Tier, page refresh may be required) 
