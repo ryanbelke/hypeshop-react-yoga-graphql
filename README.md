@@ -1,11 +1,11 @@
 ## Hype Shop Ecommerce Example
 
 Technologies Used:
-* React (Nextjs)
-* GraphQL-Yoga
-* Prisma
-* GraphQL
-* Styled Components 
+* **React (Nextjs)**
+* **GraphQL-Yoga**
+* **Prisma**
+* **GraphQL**
+* **Styled Components** 
 
 Features Inclue:
 * `Custom User Auth/Sign-in`
