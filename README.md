@@ -18,7 +18,7 @@ Features Inclue:
 * `Stripe Checkout`
 
 
-### Demo Link: (Free Heroku Tier, restart may be required) 
+### Demo Link: (Free Heroku Tier, page refresh may be required) 
 https://hypeshop-next.herokuapp.com/
 
 # Screenshots:
